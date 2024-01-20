@@ -4,8 +4,8 @@ createApp({
   data() {
     return {
       user: {
-        username: 'barry91205@gmail.com',
-        password: 'asd19951004',
+        username: '',
+        password: '',
       },
     }
   },
